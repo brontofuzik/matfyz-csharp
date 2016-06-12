@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CSharp_081124.Operators.BinaryOperators.BinaryOperator" Collapsed="true">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAIAgAACAIAAAAAAA=</HashCode>
+      <FileName>Operator\BinaryOperators\BinaryOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.BinaryOperators.Division" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\BinaryOperators\Division.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Expression" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Expression.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CSharp_081124.Operators.BinaryOperators.Minus" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\BinaryOperators\Minus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.BinaryOperators.Multiplication" Collapsed="true">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\BinaryOperators\Multiplication.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operands.Operand" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Operands\Operand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.Operator" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\Operator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.BinaryOperators.Plus" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\BinaryOperators\Plus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Program" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.UnaryOperators.UnaryMinus" Collapsed="true">
+    <Position X="14" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\UnaryOperators\UnaryMinus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.UnaryOperators.UnaryOperator" Collapsed="true">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Operator\UnaryOperators\UnaryOperator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CSharp_081124.Operators.UnaryOperators.UnaryPlus" Collapsed="true">
+    <Position X="11.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Operator\UnaryOperators\UnaryPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CSharp_081124.IEvaluable" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IEvaluable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
